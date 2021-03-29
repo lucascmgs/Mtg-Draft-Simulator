@@ -1,0 +1,15 @@
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\bin\Debug\net5.0\DraftSimulator.deps.json
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\bin\Debug\net5.0\DraftSimulator.dll
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\bin\Debug\net5.0\ref\DraftSimulator.dll
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\bin\Debug\net5.0\DraftSimulator.pdb
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\bin\Debug\net5.0\Scryfall.dll
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\bin\Debug\net5.0\Scryfall.pdb
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\DraftSimulator.csprojAssemblyReference.cache
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\DraftSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\DraftSimulator.AssemblyInfoInputs.cache
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\DraftSimulator.AssemblyInfo.cs
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\DraftSimulator.csproj.CoreCompileInputs.cache
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\DraftSimulator.csproj.CopyComplete
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\DraftSimulator.dll
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\ref\DraftSimulator.dll
+C:\Users\lucas\RiderProjects\Magic Draft\DraftSimulator\obj\Debug\net5.0\DraftSimulator.pdb

@@ -1,0 +1,12 @@
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\bin\Debug\net5.0\Scryfall.deps.json
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\bin\Debug\net5.0\Scryfall.dll
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\bin\Debug\net5.0\ref\Scryfall.dll
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\bin\Debug\net5.0\Scryfall.pdb
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\obj\Debug\net5.0\Scryfall.csprojAssemblyReference.cache
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\obj\Debug\net5.0\Scryfall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\obj\Debug\net5.0\Scryfall.AssemblyInfoInputs.cache
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\obj\Debug\net5.0\Scryfall.AssemblyInfo.cs
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\obj\Debug\net5.0\Scryfall.csproj.CoreCompileInputs.cache
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\obj\Debug\net5.0\Scryfall.dll
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\obj\Debug\net5.0\ref\Scryfall.dll
+C:\Users\lucas\RiderProjects\Magic Draft\Scryfall\obj\Debug\net5.0\Scryfall.pdb

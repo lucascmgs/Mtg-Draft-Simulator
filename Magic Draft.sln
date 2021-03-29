@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftAPI", "DraftAPI\DraftAPI.csproj", "{767EEECB-8CB4-49F0-87BD-2F28993917A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftSimulator", "DraftSimulator\DraftSimulator.csproj", "{364ED527-3D7F-48F9-866D-93AB33B1F5D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{CCB195EE-6F98-41AC-8930-C3205062D520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scryfall", "Scryfall\Scryfall.csproj", "{15D4C546-BF6B-4093-A834-D0A70A22244B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767EEECB-8CB4-49F0-87BD-2F28993917A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767EEECB-8CB4-49F0-87BD-2F28993917A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767EEECB-8CB4-49F0-87BD-2F28993917A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767EEECB-8CB4-49F0-87BD-2F28993917A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364ED527-3D7F-48F9-866D-93AB33B1F5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364ED527-3D7F-48F9-866D-93AB33B1F5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364ED527-3D7F-48F9-866D-93AB33B1F5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364ED527-3D7F-48F9-866D-93AB33B1F5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D4C546-BF6B-4093-A834-D0A70A22244B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D4C546-BF6B-4093-A834-D0A70A22244B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D4C546-BF6B-4093-A834-D0A70A22244B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D4C546-BF6B-4093-A834-D0A70A22244B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
